@@ -1,0 +1,8 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:renanjoppert1/teste-123.git",
+  "author": "Renan Joppert <renanjoppert@outlook.com>",
+  "license": "MIT"
+}
